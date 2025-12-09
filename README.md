@@ -46,23 +46,23 @@ A comprehensive, responsive web application built with React that allows users t
 
 #### Home Page
 
-![Home Page](screenshots/home.png)
+<img src="screenshots/home.png" width="500" />
 
 #### Characters Page
 
-![Characters Page](screenshots/characters.png)
+<img src="screenshots/characters.png" width="500" />
 
 #### Character Detail
 
-![Character Detail](screenshots/character-detail.png)
+<img src="screenshots/character-detail.png" width="500" />
 
 #### Episodes Page
 
-![Episodes Page](screenshots/episodes.png)
+<img src="screenshots/episodes.png" width="500" />
 
 #### Locations Page
 
-![Locations Page](screenshots/locations.png)
+<img src="screenshots/locations.png" width="500" />
 
 ## 🛠️ Technologies
 
