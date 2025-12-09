@@ -40,7 +40,7 @@ A comprehensive, responsive web application built with React that allows users t
 
 ## 🎬 Demo
 
-**Live Demo:** [Your Vercel URL here]
+**Live Demo:** [rick-morty-wiki-beta-wercel.app](https://rick-morty-wiki-beta.vercel.app)
 
 ### Screenshots
 
